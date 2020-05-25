@@ -1,0 +1,41 @@
+/* What is CSS
+1.Cascading stylesheets
+2. Not a programing language
+3. Stylesheet/styling language
+4. Used for website layout and design
+5. Can be extented with Sass/Less
+
+. Inline CSS- Directly in the html element(NO!)
+. Internal CSS- Using <style> tags within a single document
+. External CSS- Linking an external .css file
+body{
+  color:red;                 .color Names
+                             .Html5 color names
+                             .Hexdecimal
+                             .RGB
+  background:coral
+}
+h1{
+color: #00ff00;
+}
+p{
+color: rgb(0,0,255)
+}
+
+
+
+*/
+body{
+    background-color: #f4f4f4;
+    columns: #555555;
+    font-family: Arial,Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight:normal;
+    font: normal 16px Arial, Helvetica,sans-serif;
+    list-style: height 1.6em;
+    margin: 0;
+
+}
+.box-1{
+    background-color: azure;
+}
